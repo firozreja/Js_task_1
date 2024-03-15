@@ -1,0 +1,16 @@
+#btn{
+    border:1px solid blueviolet;
+    border-radius: 8px;
+    background-color: purple;
+    color: white;
+    font-size: larger;
+}
+
+.div{
+    height: 100vh;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
